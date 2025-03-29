@@ -3,7 +3,17 @@ entries:
   phonebook-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-29T18:01:04.5550994+01:00"
+    created: "2025-03-29T18:08:42.2761971+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 30544338dabe41c6b84e4c2af70852235321223e7d8a558da7e588362752a228
+    name: phonebook-chart
+    type: application
+    urls:
+    - phonebook-chart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-29T18:08:42.2755229+01:00"
     description: A Helm chart for Kubernetes
     digest: bcfa28f96e284036370cfb5611fa8478ef1707dda7eb2ec80d4dfb7d4278d3f4
     name: phonebook-chart
@@ -11,4 +21,4 @@ entries:
     urls:
     - phonebook-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-29T18:01:04.5528351+01:00"
+generated: "2025-03-29T18:08:42.2747245+01:00"
